@@ -1,4 +1,18 @@
 # 绿茶VPN/绿茶加速器/永久免费使用的VPN下载
+
+**:earth_africa: 稳定运行已经超1500天！**
+
+**:lock: 无需任何信息即可注册！**
+
+**:rocket: 无需配置，3秒内连接！**
+
+**:man: 已经助力2000W+用户解锁全球网络！**
+
+---
+### 点击右上角在浏览器打开下载
+#### :arrow_double_down: [官方网站链接](http://xddx.cc)
+#### :arrow_double_down: [下载地址](https://kuaiyavpn.github.io/download)
+
 绿茶VPN采用多国节点智能分流，自动选择最优线路，突破网络封锁，有效避免GFW干扰，真正做到即连即用、无需复杂设置。同时，全程采用高强度加密技术，保障用户数据与隐私不被泄露，适用于 Windows、macOS、iOS、Android 各大平台。
 
 核心特点：
